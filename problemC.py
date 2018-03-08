@@ -4,7 +4,7 @@
 # In[21]:
 
 
-f = open('C-small-attempt1.in', 'r')
+f = open('C-large-practice.in', 'r')
 T = int(f.readline())
 out = open("output.txt", "w");
 
