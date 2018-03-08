@@ -4,7 +4,7 @@
 # In[28]:
 
 
-f = open('A-small-attempt0.in', 'r')
+f = open('A-large-practice.in', 'r')
 #f = open('input.txt', 'r')
 T = int(f.readline())
 out = open("output.txt", "w");
