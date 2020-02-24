@@ -1,13 +1,6 @@
-
-# coding: utf-8
-
-# In[10]:
-
-
 f = open('B-large-practice.in', 'r')
 T = int(f.readline())
 out = open("output.txt", "w");
-
 
 for j in range (T):
     L = int(f.readline());

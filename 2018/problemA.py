@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[28]:
-
-
 f = open('A-large-practice.in', 'r')
 #f = open('input.txt', 'r')
 T = int(f.readline())

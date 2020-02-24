@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[21]:
-
-
 f = open('C-large-practice.in', 'r')
 T = int(f.readline())
 out = open("output.txt", "w");
